@@ -1,4 +1,4 @@
-![Coffee_Shop_Sales_Dashboard](https://github.com/user-attachments/assets/79954b4b-1767-4f83-bc76-200ad2da9fed)# Coffee Shop Sales Analysis Dashboard ☕
+# Coffee Shop Sales Analysis Dashboard ☕
 
 ## Project Overview
 This project is a comprehensive sales analysis for a coffee shop chain with three locations (Astoria, Hell’s Kitchen, and Lower Manhattan). Using **Advanced Excel (MS 365 Online)**, I transformed transactional data into a dynamic dashboard to identify revenue drivers, peak operational hours, and customer spending patterns.
