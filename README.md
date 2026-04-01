@@ -25,9 +25,9 @@ This project is a comprehensive sales analysis for a coffee shop chain with thre
 ---
 
 ## 📁 Repository Contents
-* **Coffee_Shop_Sales.xlsx**: The interactive Excel workbook containing the data model and dashboard.
+* **Coffee_Shop_Sales_Defined.xlsx**: The interactive Excel workbook containing the data model and dashboard.
 * **Data/**: Contains the source dataset used for the analysis.
-* **Screenshots/**: High-resolution images of the dashboard for quick viewing.
+* **Coffee_Shop_Sales_Dashboard/**: High-resolution images of the dashboard for quick viewing.
 
 ---
 
